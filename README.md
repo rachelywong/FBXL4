@@ -7,5 +7,5 @@ The final FBXL4 protein modelling file can be found in FBXL4Mutations.pse
 
 Screenshots of the 3D model:
 
-![Cartoon Model]('https://github.com/rachelywong/AHI1/blob/master/img/blob.png')
+![Cartoon Model](https://github.com/rachelywong/AHI1/blob/master/img/blob.png)
 
