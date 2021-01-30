@@ -5,3 +5,4 @@ Protein modelling of disease protein coding gene FBXL4 using homology modelling 
 
 The final FBXL4 protein modelling file can be found in FBXL4Mutations.pse
 
+<img src="https://github.com/rachelywong/FBXL4/blob/master/img/FBXL4-Mutation-Loop.gif" width="800" height="500">
